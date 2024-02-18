@@ -1,5 +1,0 @@
-package-lock.json
-app/node_modules/
-api/node_modules/
-auth/node_modules/
-.idea/*
